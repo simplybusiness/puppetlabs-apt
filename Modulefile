@@ -11,4 +11,4 @@ project_page 'https://github.com/puppetlabs/puppetlabs-apt'
 #dependency 'puppetlabs/stdlib', '2.x'
 # The dependency should be written as above but librarian-puppet
 # does not support the expression as the PMT does.
-dependency 'puppetlabs/stdlib', '>= 2.2.1'
+# dependency 'puppetlabs/stdlib', '>= 2.2.1'
